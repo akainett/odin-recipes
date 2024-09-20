@@ -1,2 +1,2 @@
 # odin-recipes
-This project is my first project under the odin project. his project is to test my progress with basic html. 
+This project is my first project under The Odin Project. This project is to test my knowledge on basic html. 
